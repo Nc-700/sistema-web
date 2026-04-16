@@ -15,6 +15,6 @@ Sistema de cadastro de usuários com interface moderna, desenvolvido com HTML, C
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - LocalStorage
