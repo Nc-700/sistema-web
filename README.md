@@ -1,5 +1,20 @@
-# sistema-web
+# 🌐 Sistema Web Responsivo
 
-Cadastro de usuários com interface moderna
-Armazenamento em LocalStorage
-Layout responsivo com HTML, CSS e JavaScript
+Sistema de cadastro de usuários com interface moderna, desenvolvido com HTML, CSS e JavaScript.
+
+---
+
+## 📌 Funcionalidades
+- ✅ Cadastro de usuários
+- ✅ Listagem em tempo real
+- ✅ Exclusão de usuários
+- ✅ Armazenamento no navegador (LocalStorage)
+- ✅ Layout responsivo (mobile e desktop)
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
